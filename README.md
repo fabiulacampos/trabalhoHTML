@@ -1,13 +1,13 @@
-# trabalhoHTML
+
 <!-- Professor, sei que não se usa colocar foto 3x4 em currículo atualmente.-->
 <!--Coloquei apenas para incrementar o trabalho. -->
 
-<!DOCTYPE html>							
+<!-- DOCTYPE html>							
 <html>
 	<head>
 		<title> Trabalho P2 UVA - CV Fabíula Campos </title>
 		<meta charset="utf-8"/>
-		<meta name="CV Fabíula Campos" content="Trabalho da disciplina "Desenvolvimento Web" para o segundo 			     	                   bimestre de 2018 do curso de Sistema de Informacao."/> 
+		<!-- meta name="CV Fabíula Campos" content="Trabalho da disciplina "Desenvolvimento Web" para o segundo 			     	                   bimestre de 2018 do curso de Sistema de Informacao."/> 
 		<meta name="author" content="Fabíula Campos"/>
 		<link rel="stylesheet" type="text/css" href="CV/sobrecv.css"/>
 		
